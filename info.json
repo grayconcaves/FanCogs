@@ -1,7 +1,7 @@
 {
     "author" : ["Chris/Gai (tagape#3232)"],
-    "install_msg" : "Thank you for installing my repo! If you have any issues with my cog, please add me on Discord or join my test server.",
-    "name" : "dage_cogs",
+    "install_msg" : "Thank you for installing my repo! If you have any issues with my cog, please add me on Discord or join my test server: https://discord.gg/Tk7swWr.",
+    "name" : "FanCogs",
     "short" : "Random fandom cogs",
-    "description" : "Fandom cogs made for Super Dage"
+    "description" : "Random selection of fandom cogs, especially for MXTX fans"
 }
