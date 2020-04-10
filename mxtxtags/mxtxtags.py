@@ -19,9 +19,9 @@ class Mxtxtags(commands.Cog):
         self.bot = bot
         self.config = Config.get_conf(self, identifier=79797979795641, force_registration=True)
         
-        tag_fp = bundled_data_path(self) / "taglist.json"
+        tag_fp=bundled_data_path(self) / "taglist.json"
         with tag_fp.open("r", encoding='utf-8') as tagses:
-            self.TAGLIST = json.load(tagses)
+            self.TAGLIST=json.load(tagses)
 
     @commands.command(aliases=['mxtxtags','tag', 'cntag'])
     async def mxtxtag(self, ctx, *, tags):
