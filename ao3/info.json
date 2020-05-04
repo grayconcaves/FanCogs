@@ -11,7 +11,7 @@
         "ao3"
     ],
     "requirements": [
-		"bs4"
-	],
+        "bs4"
+    ],
     "min_python_version": [3, 8, 0]
 }
